@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#071B2E"/>
+  <g fill="none" stroke-linecap="butt" stroke-width="8" transform="rotate(-90 32 32)">
+    <circle cx="32" cy="32" r="19" stroke="#075979" stroke-dasharray="8.4 111" stroke-dashoffset="0"/>
+    <circle cx="32" cy="32" r="19" stroke="#1599CB" stroke-dasharray="8.4 111" stroke-dashoffset="-9.5"/>
+    <circle cx="32" cy="32" r="19" stroke="#4A9A47" stroke-dasharray="8.4 111" stroke-dashoffset="-19"/>
+    <circle cx="32" cy="32" r="19" stroke="#87B83F" stroke-dasharray="8.4 111" stroke-dashoffset="-28.5"/>
+    <circle cx="32" cy="32" r="19" stroke="#F0B34D" stroke-dasharray="8.4 111" stroke-dashoffset="-38"/>
+    <circle cx="32" cy="32" r="19" stroke="#F06F2C" stroke-dasharray="8.4 111" stroke-dashoffset="-47.5"/>
+    <circle cx="32" cy="32" r="19" stroke="#D44B45" stroke-dasharray="8.4 111" stroke-dashoffset="-57"/>
+    <circle cx="32" cy="32" r="19" stroke="#CB2D58" stroke-dasharray="8.4 111" stroke-dashoffset="-66.5"/>
+    <circle cx="32" cy="32" r="19" stroke="#925AA5" stroke-dasharray="8.4 111" stroke-dashoffset="-76"/>
+    <circle cx="32" cy="32" r="19" stroke="#A9476E" stroke-dasharray="8.4 111" stroke-dashoffset="-85.5"/>
+    <circle cx="32" cy="32" r="19" stroke="#E05B3C" stroke-dasharray="8.4 111" stroke-dashoffset="-95"/>
+    <circle cx="32" cy="32" r="19" stroke="#00689D" stroke-dasharray="8.4 111" stroke-dashoffset="-104.5"/>
+  </g>
+  <circle cx="32" cy="32" r="11" fill="#FFFDF8"/>
+</svg>
