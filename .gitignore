@@ -1,0 +1,8 @@
+# Generated design-review artifacts
+tmp/
+output/
+screenshots/
+home-page-full.png
+
+# Local system files
+.DS_Store
